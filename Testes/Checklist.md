@@ -2,15 +2,15 @@ Checklist
   
 Criação de família sem ter gasto 5 dólares
 
- ☐ Necessário um dispositivo que suporte a steam.
- ☐ Criar uma conta com email e senha.
- ☐ Ter uma conta verificada no email.
- ☐ Fazer o login da conta
- ☐ Acessar o campo superior esquerdo “Steam”.  
- ☐ Ir em “Configurações”. 
- ☐ Clique em “Criar ou entrar em Família”. 
- ☐ Definir um nome da família. 
- ☐ Irá constatar o erro “Falha ao criar família. Contas limitadas não podem criar uma familia”.  
+☐ Necessário um dispositivo que suporte a steam.
+☐ Criar uma conta com email e senha.
+☐ Ter uma conta verificada no email.
+☐ Fazer o login da conta
+☐ Acessar o campo superior esquerdo “Steam”.  
+☐ Ir em “Configurações”. 
+☐ Clique em “Criar ou entrar em Família”. 
+☐ Definir um nome da família. 
+☐ Irá constatar o erro “Falha ao criar família. Contas limitadas não podem criar uma familia”.  
   
 Saída e reentrada da mesma família (Situação onde pessoa sai sem querer)  
   
