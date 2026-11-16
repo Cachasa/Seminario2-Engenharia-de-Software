@@ -3,6 +3,7 @@ Checklist
 Criação de família sem ter gasto 5 dólares
 
 ☐ Necessário um dispositivo que suporte a steam.
+
 ☐ Criar uma conta com email e senha.
 ☐ Ter uma conta verificada no email.
 ☐ Fazer o login da conta
