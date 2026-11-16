@@ -15,7 +15,7 @@ Criação de família sem ter gasto 5 dólares
 Saída e reentrada da mesma família (Situação onde pessoa sai sem querer)  
   
 
- ☐ Necessário dispositivo que suporte a steam.  
+☐ Necessário dispositivo que suporte a steam.  
 ☐ Criar uma conta com email e senha.  
 ☐ Ter uma conta verificada no email.  
 ☐ Fazer o login da conta
