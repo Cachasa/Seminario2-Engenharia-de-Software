@@ -26,8 +26,6 @@ Saída e reentrada da mesma família (Situação onde pessoa sai sem querer)
 ☐ Clique no botão sair
 ☐ Caso queira voltar
 ☐ Pode reenviar o convite.
-
-
   
 Mensagens no histórico de Logs
 
