@@ -2,7 +2,6 @@ Checklist
   
 Criação de família sem ter gasto 5 dólares
 
-
 ☐ Necessário um dispositivo que suporte a steam.
 ☐ Criar uma conta com email e senha.
 ☐ Ter uma conta verificada no email.
@@ -15,7 +14,6 @@ Criação de família sem ter gasto 5 dólares
   
 Saída e reentrada da mesma família (Situação onde pessoa sai sem querer)  
   
-
 ☐ Necessário dispositivo que suporte a steam.  
 ☐ Criar uma conta com email e senha.  
 ☐ Ter uma conta verificada no email.  
@@ -43,8 +41,6 @@ Mensagens no histórico de Logs
 ☐ Ir “Gerenciar a família steam”.  
 ☐ E então clique no campo do “histórico”  
 ☐ Verificar mensagem no histórico “xxxx criou a família com o nome xxxxx”
-
-  
 
 Abrir jogo de outro familiar
 
