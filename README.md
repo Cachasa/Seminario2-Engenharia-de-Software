@@ -35,7 +35,7 @@ Durante o desenvolvimento desse trabalho, foram realizadas as seguintes atividad
 
 - **Steam:** plataforma utilizada para análise e execução dos testes.
     
-- Obsidian: Para documentar o projeto.
+- Obsidian e plugin do Excalidraw: Para documentar o projeto e desenho de um gráfico.
     
 - **GitHub:** armazenamento e organização dos materiais do trabalho.
 	
