@@ -11,7 +11,7 @@ Cadastrar-se
 Cadastrar com Email e senha  
 ![Captura de tela 03](Imagens/captura-03.png)
 
-Validação do email  
+Validação do email  (2018)
 ![Captura de tela 04](Imagens/captura-04.png)
 
 Menu de configurações na página Inicial  
