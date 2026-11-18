@@ -1,126 +1,151 @@
 # Resultados dos Testes
 
-## 1. Criação de família com conta limitada (PASS)  
-  
-Iniciar sessão  
-![Captura de tela 01](Imagens/captura-01.png)  
-  
-Cadastrar-se  
-![Captura de tela 02](Imagens/captura-02.png)  
+## 1. Criação de família com conta limitada (PASS)
 
-Cadastrar com Email e senha  
-![Captura de tela 03](Imagens/captura-03.png)
+**Iniciar sessão**
 
-Validação do email(2018)
-![Captura de tela 04](Imagens/captura-04.png)
+<img src="Imagens/captura-01.png" alt="Captura de tela 01" width="100%">
 
-Menu de configurações na página Inicial  
-![Captura de tela 05](Imagens/captura-05.png)
+**Cadastrar-se**
 
-Aba de Família e compartilhamento  
-![Captura de tela 06](Imagens/captura-06.png)
+<img src="Imagens/captura-02.png" alt="Captura de tela 02" width="100%">
 
-Criar ou entrar Família  
-![Captura de tela 07](Imagens/captura-07.png)
+**Cadastrar com e-mail e senha**
 
-Criar família  
-![Captura de tela 08](Imagens/captura-08.png)
+<img src="Imagens/captura-03.png" alt="Captura de tela 03" width="100%">
 
-Definição do nome  
-![Captura de tela 09](Imagens/captura-09.png)
+**Validação do e-mail (2018)**
 
-Mensagem de erro (Conta Limitada)  
-![Captura de tela 10](Imagens/captura-10.png)
+<img src="Imagens/captura-04.png" alt="Captura de tela 04" width="100%">
+
+**Menu de configurações na página inicial**
+
+<img src="Imagens/captura-05.png" alt="Captura de tela 05" width="100%">
+
+**Aba de Família e compartilhamento**
+
+<img src="Imagens/captura-06.png" alt="Captura de tela 06" width="100%">
+
+**Criar ou entrar em Família**
+
+<img src="Imagens/captura-07.png" alt="Captura de tela 07" width="100%">
+
+**Criar família**
+
+<img src="Imagens/captura-08.png" alt="Captura de tela 08" width="100%">
+
+**Definição do nome**
+
+<img src="Imagens/captura-09.png" alt="Captura de tela 09" width="100%">
+
+**Mensagem de erro (Conta Limitada)**
+
+<img src="Imagens/captura-10.png" alt="Captura de tela 10" width="100%">
+
+---
 
 ## 2. Saída e reentrada na mesma família (PASS)
 
-(Mesma sequência da anterior)
+*(Mesma sequência da anterior)*
 
-Criada a família
+**Família criada**
 
-![Captura de tela 11](Imagens/captura-11.png)
+<img src="Imagens/captura-11.png" alt="Captura de tela 11" width="100%">
 
-Adicionando a outra conta como amigo  
-![Captura de tela 12](Imagens/captura-12.png)
+**Adicionando a outra conta como amigo**
 
-Convidando a conta pra família (como adulto ou criança)
+<img src="Imagens/captura-12.png" alt="Captura de tela 12" width="100%">
 
-![Captura de tela 13](Imagens/captura-13.png)
+**Convidando a conta para a família (como adulto ou criança)**
 
-Confirmação do convite![Captura de tela 14](Imagens/captura-14.png)
+<img src="Imagens/captura-13.png" alt="Captura de tela 13" width="100%">
 
-Convite enviado![Captura de tela 15](Imagens/captura-15.png)
+**Confirmação do convite**
 
-A outra conta recebe o convite  
-![Captura de tela 16](Imagens/captura-16.png)  
+<img src="Imagens/captura-14.png" alt="Captura de tela 14" width="100%">
 
-Aceita o convite (mostra avisos sobre não conseguir entrar em outra família durante um ano)  
-![Captura de tela 17](Imagens/captura-17.png)
+**Convite enviado**
 
-Confirmação da entrada  
-![Captura de tela 18](Imagens/captura-18.png)
+<img src="Imagens/captura-15.png" alt="Captura de tela 15" width="100%">
 
-Mensagem de solicitação da confirmação para o dispositivo móvel  
-  
-Sair da Família  
-![Captura de tela 19](Imagens/captura-19.png)
+**A outra conta recebe o convite**
 
-Confirmação da saída da família
+<img src="Imagens/captura-16.png" alt="Captura de tela 16" width="100%">
 
-![Captura de tela 20](Imagens/captura-20.png)
+**Aceitar o convite (mostra avisos sobre não conseguir entrar em outra família durante um ano)**
 
-Quando há o convite novamente
+<img src="Imagens/captura-17.png" alt="Captura de tela 17" width="100%">
 
-![Captura de tela 21](Imagens/captura-21.png)
+**Confirmação da entrada**
 
-![Captura de tela 22](Imagens/captura-22.png)
+<img src="Imagens/captura-18.png" alt="Captura de tela 18" width="100%">
 
-Membro volta para família (sem ter que esperar 1 ano)
+**Mensagem de solicitação da confirmação para o dispositivo móvel**
+
+**Sair da família**
+
+<img src="Imagens/captura-19.png" alt="Captura de tela 19" width="100%">
+
+**Confirmação da saída da família**
+
+<img src="Imagens/captura-20.png" alt="Captura de tela 20" width="100%">
+
+**Quando há o convite novamente**
+
+<img src="Imagens/captura-21.png" alt="Captura de tela 21" width="100%">
+
+<img src="Imagens/captura-22.png" alt="Captura de tela 22" width="100%">
+
+**Membro volta para a família (sem ter que esperar um ano)**
+
+---
 
 ## 3. Mensagens no histórico de logs (PASS)
 
-(Mesma sequência da anterior)
+*(Mesma sequência da anterior)*
 
-No gerenciamento, ir na aba Histórico
+**No gerenciamento, ir à aba Histórico**
 
-![Captura de tela 23](Imagens/captura-23.png)
+<img src="Imagens/captura-23.png" alt="Captura de tela 23" width="100%">
 
-Histórico com todas alterações gerais da família feitas
+**Histórico com todas as alterações gerais da família**
 
-![Captura de tela 24](Imagens/captura-24.png)
+<img src="Imagens/captura-24.png" alt="Captura de tela 24" width="100%">
+
+---
 
 ## 4. Abrir jogo de outro familiar (PASS)
 
-(Mesma sequência da anterior)
+*(Mesma sequência da anterior)*
 
-Minha família
+**Minha família**
 
-![Captura de tela 25](Imagens/captura-25.png)
+<img src="Imagens/captura-25.png" alt="Captura de tela 25" width="100%">
 
-Ir na página inicial da Biblioteca
+**Ir à página inicial da Biblioteca**
 
-![Captura de tela 26](Imagens/captura-26.png)
+<img src="Imagens/captura-26.png" alt="Captura de tela 26" width="100%">
 
-Ir nos filtros
+**Ir aos filtros**
 
-![Captura de tela 27](Imagens/captura-27.png)
+<img src="Imagens/captura-27.png" alt="Captura de tela 27" width="100%">
 
-Filtro dos jogos da Rafaela 
+**Filtro dos jogos da Rafaela**
 
-![Captura de tela 28](Imagens/captura-28.png)
+<img src="Imagens/captura-28.png" alt="Captura de tela 28" width="100%">
 
-Jogos que ela possui
+**Jogos que ela possui**
 
-![Captura de tela 29](Imagens/captura-29.png)  
+<img src="Imagens/captura-29.png" alt="Captura de tela 29" width="100%">
 
-Instalar jogo
+**Instalar jogo**
 
-![Captura de tela 30](Imagens/captura-30.png)
+<img src="Imagens/captura-30.png" alt="Captura de tela 30" width="100%">
 
-Jogar
+**Jogar**
 
-![Captura de tela 31](Imagens/captura-31.png)
+<img src="Imagens/captura-31.png" alt="Captura de tela 31" width="100%">
 
-Resultado esperado
+**Resultado esperado**
 
-![Captura de tela 32](Imagens/captura-32.png)
+<img src="Imagens/captura-32.png" alt="Captura de tela 32" width="100%">
